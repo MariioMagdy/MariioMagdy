@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MariioMagdy Junior Web Developer specializing in Front end developer , knowing all stages of the development cycle for dynamic web projects. Well-versed in numerous program
+- 👋 Hi, I’m @MariioMagdy Web Developer specializing in Front end developer , knowing all stages of the development cycle for dynamic web projects. Well-versed in numerous program
 - 👀 I’m interested in being a Front end development 
 - 🌱 I’m currently learning all needed technologies that related to this field
 - 💞️ I’m looking to collaborate on Front-end projects 
